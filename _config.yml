@@ -1,6 +1,7 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+baseurl: /cleanwaternow
 prose:
   rooturl: '_posts'
   siteurl: 'http://afmitech.github.io/cleanwaternow/'
